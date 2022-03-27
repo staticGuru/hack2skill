@@ -3,11 +3,6 @@ import SignIn from "./SignIn";
 import Signup2 from "./Signup2";
 
 function SignUp() {
-  //
-  // const [name, setName] = useState("");
-  // const [email, setEmail] = useState("");
-  // const [password, setPassword] = useState("");
-  // const [confPassword, setConfPassword] = useState("");
   const [signUP, setSignUp] = useState(false);
   // const [SignInName, setSignInName] = useState("");
   // const [SignInPassword, setSignInPassword] = useState("");

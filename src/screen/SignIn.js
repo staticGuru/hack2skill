@@ -53,7 +53,7 @@ function SignIn({ signUP, setSignUp }) {
             handleSubmit(e);
           }}
         >
-          <h2>Blockchain based E-Acution system</h2>
+          <h2>Blockchain based E-Auction system</h2>
           <h3> Sign-In </h3>
           <label>User name:</label>
           <input
